@@ -1,4 +1,4 @@
-My Awesome Cool Notes
+My Awesome Coool Notes
 
 Hello Git!
 Have added a second line.
