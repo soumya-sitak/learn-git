@@ -1,3 +1,4 @@
-Hello Git!
+My Awesome Git Notes
 
+Hello Git!
 Have added a second line.
